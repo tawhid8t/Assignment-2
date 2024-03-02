@@ -531,7 +531,8 @@ footer{
         margin: 0;
     }
     .banner-content{
-        top: 10%;
+        top: 0;
+        margin-top: 10px;
     }
     .banner-heading{
         font-size: 45px;
